@@ -30,7 +30,7 @@ Places are fictional locations which affect the style of artwork. Many of these 
 
 These are countries, continents, or just general areas that are in the STK universe. In most cases, choosing one of these is not sufficient for inspiration for artwork. However, choosing a region may be precise enough for a themed kart. For example, Suzanne, a monkey, could have a kart themed after Val Verde, in addition to the Blender Project which she represents. (Currently she does not.)
 
-Keep in mind that these are *interpretations* of real-world locations. (Many are, to put it bluntly, stereotypes of their corresponding real-world countries).)
+Keep in mind that these are *interpretations* of real-world locations (Many are, to put it bluntly, stereotypes of their corresponding real-world countries).
 
 * **Icyland:** similar to real-world Antarctica
 * **Val Verde:** A country in a jungle similar to the Amazon
